@@ -1,2 +1,2 @@
-# i3
-i3wm files
+# i3wm
+My configuration files for i3wm and i3blocks.
