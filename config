@@ -34,7 +34,10 @@ exec_always compton
 #exec slack
 # wallpaper
 
-exec_always feh --bg-scale ~/Pictures/Wallpapers/wallpaper-slideshow/pexels-photo-110147.jpeg
+exec_always feh --bg-scale ~/Pictures/Wallpapers/wallpaper-slideshow/landscape-nature-clouds-cloudy.jpg
+
+# google-chrome binding
+bindsym $mod+g exec google-chrome
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
